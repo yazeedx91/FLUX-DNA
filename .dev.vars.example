@@ -1,0 +1,8 @@
+DATABASE_URL=postgresql://user:password@host/dbname
+RESEND_API_KEY=re_xxxxxxxxxxxx
+OPENAI_API_KEY=sk-xxxxxxxxxxxx
+AI_INTEGRATIONS_OPENAI_API_KEY=sk-xxxxxxxxxxxx
+AI_INTEGRATIONS_OPENAI_BASE_URL=https://api.openai.com/v1
+ENCRYPTION_KEY=your-256-bit-hex-key
+APP_DOMAIN=localhost:8788
+RESEND_WEBHOOK_SECRET=whsec_xxxxxxxxxxxx

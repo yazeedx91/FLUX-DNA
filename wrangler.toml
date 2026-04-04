@@ -1,0 +1,17 @@
+name = "flux-dna"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "dist"
+
+[vars]
+NODE_ENV = "production"
+
+# Secrets are set via: wrangler pages secret put <KEY>
+# DATABASE_URL
+# RESEND_API_KEY
+# OPENAI_API_KEY
+# ENCRYPTION_KEY
+# APP_DOMAIN
+# RESEND_WEBHOOK_SECRET
+# AI_INTEGRATIONS_OPENAI_API_KEY
+# AI_INTEGRATIONS_OPENAI_BASE_URL
